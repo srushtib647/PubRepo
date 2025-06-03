@@ -1,1 +1,1 @@
-# this is my public repo
+# This is my public repo
